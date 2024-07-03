@@ -3,11 +3,6 @@
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,laravel,php)](https://skillicons.dev)
 
-https://cultofthepartyparrot.com/parrots/hd/parrot.gif
-https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif
-https://cultofthepartyparrot.com/parrots/hd/congaparrot.gif
-https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif
-https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif
 <!--
 **tamanhansalia/tamanhansalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
