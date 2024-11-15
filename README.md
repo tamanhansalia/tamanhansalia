@@ -1,5 +1,3 @@
-### TAM
-
 
 ### Technologies and Tools
 
