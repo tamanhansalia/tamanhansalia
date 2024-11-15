@@ -11,3 +11,6 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+
+[![](https://visitcount.itsvg.in/api?id=taman&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
