@@ -13,5 +13,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=taman&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
