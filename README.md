@@ -40,5 +40,5 @@ If not, that’s fine too.
 <p align="center">
 📫 <b>Email:</b> taman.hansalia@gmail.com  
 <br/>
-🌐 <b>Portfolio:</b> [tamancodes](https://tamancodes.vercel.app/)
+🌐 <b>Portfolio:</b> https://tamancodes.vercel.app/
 </p>
