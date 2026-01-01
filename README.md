@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Taman Hansaliya</h1>
-<h3 align="center">Frontend Engineer • React & Next.js • UI Performance Focused</h3>
+<h3 align="center">Frontend Engineer • React & Next.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Scalable+Frontend+Applications;React+%7C+Next.js+%7C+TypeScript;Clean+UI+%2B+Performance+Driven+Code;Open+to+Remote+Opportunities" />
