@@ -56,8 +56,8 @@ I don’t chase frameworks blindly — I care about **performance, clean archite
 ## 📊 GitHub Stats (Signal, Not Ego)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAMAN-HANSALIYA&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAMAN-HANSALIYA&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamanhansalia&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamanhansalia&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ I don’t chase frameworks blindly — I care about **performance, clean archite
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMAN-HANSALIYA&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanhansalia&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
