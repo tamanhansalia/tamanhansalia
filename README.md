@@ -9,14 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamanhansalia&bg_color=transparent&color=7AA2F7&line=7AA2F7&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamanhansalia&show_icons=true&hide_border=true&theme=transparent" height="140" />
-</p>
-
-<p align="center">
   Building real React & Next.js apps.  
   Code over claims.
 </p>
