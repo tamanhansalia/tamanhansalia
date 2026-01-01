@@ -38,7 +38,7 @@ If not, that’s fine too.
 </p>
 
 <p align="center">
-📫 <b>Email:</b> your-email@gmail.com  
+📫 <b>Email:</b> taman.hansalia@gmail.com  
 <br/>
-🌐 <b>Portfolio:</b> https://your-portfolio.vercel.app
+🌐 <b>Portfolio:</b> [tamancodes](https://tamancodes.vercel.app/)
 </p>
