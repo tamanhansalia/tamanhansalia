@@ -38,24 +38,13 @@ I don’t chase frameworks blindly — I care about **performance, clean archite
 
 ---
 
-## 📊 GitHub Stats (Signal, Not Ego)
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tamanhansalia&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400"
-    height="160"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=tamanhansalia&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    height="160"
-  />
-</p>
----
 
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanhansalia&layout=compact&theme=transparent&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamanhansalia&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400"
+  />
 </p>
 
 ---
