@@ -15,17 +15,20 @@ Frontend Engineer • React & Next.js
 ---
 
 <p align="center">
-Writing code is easy now.  
-Writing **quality code that scales** is not.
+About me?
 </p>
 
 <p align="center">
-Most people ship features.  
-Few think about **architecture, performance, and long-term maintainability**.
+Honestly — who cares.
 </p>
 
 <p align="center">
-That’s the gap I care about.
+Look at the code.  
+If it makes sense, we’ll get along.
+</p>
+
+<p align="center">
+If not, that’s fine too.
 </p>
 
 ---
