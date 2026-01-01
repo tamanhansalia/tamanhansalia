@@ -38,28 +38,18 @@ I don’t chase frameworks blindly — I care about **performance, clean archite
 
 ---
 
-## 📌 Featured Projects
-
-> Replace links with your real repos (this section matters more than anything else)
-
-- **Rajkozi** – Property listing platform with map-based search (Flutter + Node backend)  
-  🔗 https://github.com/your-repo  
-
-- **Frontend Dashboard** – Performance-optimized React dashboard  
-  🔗 https://github.com/your-repo  
-
-- **Next.js App Router Project** – SEO-focused production setup  
-  🔗 https://github.com/your-repo  
-
----
-
 ## 📊 GitHub Stats (Signal, Not Ego)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamanhansalia&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamanhansalia&theme=transparent&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tamanhansalia&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&cache_seconds=86400"
+    height="160"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=tamanhansalia&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    height="160"
+  />
 </p>
-
 ---
 
 ## 🧩 Most Used Languages
