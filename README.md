@@ -1,14 +1,86 @@
-<h2 align="center">Taman Hansaliya</h2>
+<!-- Header -->
+<h1 align="center">Taman Hansaliya</h1>
+<h3 align="center">Frontend Engineer • React & Next.js • UI Performance Focused</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=15&pause=1200&color=7AA2F7&center=true&vCenter=true&width=480&lines=Frontend+Engineer;1%2B+Year+Experience;React+%7C+Next.js;UI+Performance+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+Scalable+Frontend+Applications;React+%7C+Next.js+%7C+TypeScript;Clean+UI+%2B+Performance+Driven+Code;Open+to+Remote+Opportunities" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,git,vercel&theme=light" />
-</p>
+---
+
+## 🧠 About Me (Read This Before Scrolling)
+
+I’m a **frontend engineer focused on building fast, scalable, and maintainable web applications**.  
+I don’t chase frameworks blindly — I care about **performance, clean architecture, and real user experience**.
+
+- ⚡ React & Next.js specialist  
+- 🧩 Strong in component architecture & state management  
+- 🎯 UI performance, SEO, and accessibility focused  
+- 🌍 Open to **remote frontend roles**
+
+---
+
+## 🛠 Tech Stack (What I Actually Use)
 
 <p align="center">
-  Building real React & Next.js apps.  
-  Code over claims.
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,nodejs,git,github,vercel,figma" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+- Production-ready **React & Next.js applications**
+- SEO-optimized **Next.js pages (App Router)**
+- Clean, scalable **component systems**
+- API-driven UIs with real-world data
+- Responsive layouts that don’t break
+
+---
+
+## 📌 Featured Projects
+
+> Replace links with your real repos (this section matters more than anything else)
+
+- **Rajkozi** – Property listing platform with map-based search (Flutter + Node backend)  
+  🔗 https://github.com/your-repo  
+
+- **Frontend Dashboard** – Performance-optimized React dashboard  
+  🔗 https://github.com/your-repo  
+
+- **Next.js App Router Project** – SEO-focused production setup  
+  🔗 https://github.com/your-repo  
+
+---
+
+## 📊 GitHub Stats (Signal, Not Ego)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TAMAN-HANSALIYA&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAMAN-HANSALIYA&theme=transparent&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧩 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAMAN-HANSALIYA&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let’s Work Together
+
+- 📫 Email: **your-email@gmail.com**
+- 💼 Portfolio: **https://your-portfolio.vercel.app**
+- 🐦 Twitter/X (optional): **@yourhandle**
+
+> If you’re building something serious and need a frontend engineer who understands **real-world constraints**, let’s talk.
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
